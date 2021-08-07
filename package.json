@@ -1,6 +1,6 @@
 {
   "name": "coin-master",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Change return algorithm for a vending machines",
   "main": "index.js",
   "scripts": {
