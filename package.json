@@ -1,0 +1,24 @@
+{
+  "name": "coin",
+  "version": "1.0.0",
+  "description": "coin test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandrDegteari/coin.git"
+  },
+  "keywords": [
+    "coin",
+    "rest",
+    "algorithm"
+  ],
+  "author": "Alex <1989alex1989@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandrDegteari/coin/issues"
+  },
+  "homepage": "https://github.com/AlexandrDegteari/coin#readme"
+}
