@@ -6,7 +6,7 @@ const coin = (params) => {
     if (params.coins.some(isNaN)) {
         return 'Error params.coins must be array of integers!'
     }
-    if (!params.coins.some(1)) {
+    if (!params.coins.includes(1)) {
         return 'Element 1 is required!'
     }
     // Sorting

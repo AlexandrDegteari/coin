@@ -14,7 +14,7 @@ smallest amount of coin possible.
 import { coin } from 'coin-master';
 
 coin({
-  coins: '[1, 2, 5]',
+  coins: [1, 2, 5],
   total: 12
 })
 ```
