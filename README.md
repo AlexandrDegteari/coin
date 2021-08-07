@@ -6,12 +6,12 @@ smallest amount of coin possible.
 
 # Installation
 
-`npm i coin --save`
+`npm i coin-master --save`
 
 
 
 ```
-import { coin } from 'coin';
+import { coin } from 'coin-master';
 
 coin({
   coins: '[1, 2, 5]',
